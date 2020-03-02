@@ -2,7 +2,8 @@
 <ModMetaData>
 	<name>PlanetsidePew</name>
 	<author>GarbageDayIsHereToStay</author>
-    <supportedVersions><li>1.0</li></supportedVersions>
+	<packageId>GarbageDayIsHereToStay.PlanetSidePew</packageId>
+        <supportedVersions><li>1.0</li></supportedVersions>
 	<description>
 JECSTOOLS IS NEEDED TO RUN THIS
 
